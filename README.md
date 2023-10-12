@@ -24,8 +24,16 @@ The primary goals of this project are as follows:
 
 To run this project and reproduce the analysis:
 
-1. Clone this repository to your local machine.
-
-2. Install the required Python libraries using the provided `requirements.txt` file:
+1. Clone this repository to your local machine:
    ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/razauh/news_analysis.git
+
+   # Project Execution
+
+Execute each part of the project code sequentially to perform data analysis and gain insights into climate change narratives in television news.
+
+
+# Acknowledgments
+[Dataset]([URL](https://blog.gdeltproject.org/a-new-dataset-for-exploring-climate-change-narratives-on-television-news-2009-2020/))
+
+
