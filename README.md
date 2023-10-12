@@ -34,7 +34,7 @@ Execute each part of the project code sequentially to perform data analysis and 
 
 
 # Acknowledgments
-[Dataset)](https://blog.gdeltproject.org/a-new-dataset-for-exploring-climate-change-narratives-on-television-news-2009-2020/)
+[Dataset](https://blog.gdeltproject.org/a-new-dataset-for-exploring-climate-change-narratives-on-television-news-2009-2020/)
 
 
 
