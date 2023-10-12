@@ -28,12 +28,13 @@ To run this project and reproduce the analysis:
    ```bash
    git clone https://github.com/razauh/news_analysis.git
 
-   # Project Execution
+# Project Execution
 
 Execute each part of the project code sequentially to perform data analysis and gain insights into climate change narratives in television news.
 
 
 # Acknowledgments
-[Dataset]([URL](https://blog.gdeltproject.org/a-new-dataset-for-exploring-climate-change-narratives-on-television-news-2009-2020/))
+[Dataset)](https://blog.gdeltproject.org/a-new-dataset-for-exploring-climate-change-narratives-on-television-news-2009-2020/)
+
 
 
